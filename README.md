@@ -3,7 +3,7 @@
 
 # Getting Started
 + [Downloading Luanti](https://www.luanti.org/en/)
-+ [Fractured Basics]()
++ [Fractured Basics](https://github.com/brandonelswick01/Fractured-Wiki/blob/main/README.md#fractured-basics)
 
 
 # Fractured Basics
